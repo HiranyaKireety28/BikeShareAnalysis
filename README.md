@@ -8,8 +8,8 @@ Visualized the output using matplotlib package.
 ### Addressed below questions using 'Bike Share Analysis' dataset
 
 1. Number of stations per city
-2. Number of docks per city
-3. Number of docks per station
+2. Number of stations per year
+3. Trips per city over years
 4. Trips per year
 5. Trips per month
 6. Day on which trips are maximum 

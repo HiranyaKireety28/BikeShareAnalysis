@@ -9,8 +9,10 @@ Visualized the output using matplotlib package.
 
 1. Number of stations per city
 2. Number of stations per year
-3. Trips per city over years
-4. Trips per year
-5. Trips per month
-6. Day on which trips are maximum 
-7. Day on which trips are minimum 
+3. Stations with highest number of trips in between them
+4. Trips per customer type
+5. Trips per city over years
+6. Trips per year
+7. Trips per month
+8. Day on which trips are maximum 
+9. Trips per time
